@@ -13,6 +13,11 @@ public class Algorithme
 		return result;
 	}
 	
+	/*
+	 * usage: quicksort the double array
+	 * 
+	 * Write: Vincent
+	 */
 	public static void quick_sort(double s[], int l, int r)  
 	{  
 	    if (l < r)  
@@ -39,6 +44,11 @@ public class Algorithme
 	}
 
 
+	/*
+	 * usage: quicksort the int array
+	 * 
+	 * Write: Vincent
+	 */
 	public static void quick_sort(int s[], int l, int r)  
 	{  
 	    if (l < r)  

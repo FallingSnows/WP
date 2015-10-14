@@ -794,6 +794,7 @@ class Contract_
 			Res[1][i] = 1 - Algorithme.find_index_interval(result, Res[0][i]) / (double) 23;
 		}
 		*/
+		
 		return result;
 	}
 }
